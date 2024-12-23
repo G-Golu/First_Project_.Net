@@ -9,7 +9,10 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            
         </div>
+		User_Name : <input type="number" name="username" value="" /><br />
+        Name: <input type ="text" />
     </form>
 </body>
 </html>
